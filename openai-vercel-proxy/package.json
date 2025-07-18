@@ -1,0 +1,14 @@
+{
+  "name": "openai-vercel-proxy",
+  "version": "1.0.0",
+  "description": "Serverless function proxy for OpenAI API",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node api/openai.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {}
+}
